@@ -5,7 +5,7 @@
 [![Codecov](https://codecov.io/gh/goropikari/Timeout.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/goropikari/Timeout.jl)
 
 
-Implement the timeout feature in a funciton.
+Implement the timeout feature in a function.
 
 # Installation
 ```
